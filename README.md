@@ -21,7 +21,6 @@ A clean and user-friendly desktop application for managing library operations us
   - Due dates
   - Fines
   - Membership expiry
-  - Reservations
 - Search and browse books.
 - Issue or return books (if no overdue).
 - Renew library membership.
