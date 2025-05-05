@@ -1,0 +1,12 @@
+Book ID,Book Name,Author,Availability
+B100,Python Basics,Zelle,5
+B101,Data Structures,Lipschutz,5
+B102,Algorithms 101,CLRS,5
+B103,Discrete Math,Rosen,5
+B104,Database Systems,Ramakrishnan,5
+B105,Computer Networks,Tanenbaum,5
+B106,Operating Systems,Silberschatz,5
+B107,AI Foundations,Russell,5
+B108,Machine Learning,Géron,5
+B109,UX Design,Krug,5
+B110,Code with Harry,Harrison,5

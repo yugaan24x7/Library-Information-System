@@ -1,0 +1,10 @@
+Username,Role,Password
+admin1,admin,adminpass1
+admin2,admin,adminpass2
+alice,user,alice123
+bob,user,bob123
+charlie,user,charlie123
+david,user,david123
+eve,user,eve123
+frank,user,frank123
+

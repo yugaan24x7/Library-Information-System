@@ -1,0 +1,7 @@
+Student ID,Student Name,Username,Books Issued,Due Dates,Fines Due,Membership Expiry,Reservations
+2001,Alice,alice,"B101,B102","2025-05-31,2025-06-05",0,2026-05-01,
+2002,Bob,bob,,,0,2026-05-01,B104
+2003,Charlie,charlie,B103,2025-06-01,10,2026-05-01,
+2004,David,david,,,0,2026-05-01,
+2005,Eve,eve,,,0,2026-05-01,
+2006,Frank,frank,,,0,2026-05-01,
